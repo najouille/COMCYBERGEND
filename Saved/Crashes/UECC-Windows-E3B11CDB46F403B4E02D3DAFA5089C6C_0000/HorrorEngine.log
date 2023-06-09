@@ -1,0 +1,1681 @@
+﻿Log file open, 06/08/23 09:43:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5180)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HorrorEngine
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\HorrorEngine.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1702] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i9-13980HX"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="4bb7bfe541918d15f910bc98800c0e9c"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.652359
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-E3B11CDB46F403B4E02D3DAFA5089C6C
+         Session CrashGUID >====================================================
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading Android ini files took 0.21 seconds
+LogConfig: Display: Loading IOS ini files took 0.21 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.21 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.21 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogConfig: Display: Loading Mac ini files took 0.22 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin Paper2D
+LogConfig: Display: Loading TVOS ini files took 0.28 seconds
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogConfig: Display: Loading Windows ini files took 0.29 seconds
+LogConfig: Display: Loading Unix ini files took 0.29 seconds
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AISupport
+LogConfig: Display: Loading LinuxArm64 ini files took 0.32 seconds
+LogConfig: Display: Loading Linux ini files took 0.32 seconds
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin StaticMeshEditorModeling
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/StaticMeshEditorModeling/Content/' mounted to '/StaticMeshEditorModeling/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1702] (), CPU: 13th Gen Intel(R) Core(TM) i9-13980HX, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.08-07.43.03:450][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.08-07.43.03:450][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.06.08-07.43.03:450][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.06.08-07.43.03:450][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.08-07.43.03:450][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.08-07.43.03:451][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.08-07.43.03:451][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.08-07.43.03:451][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.08-07.43.03:456][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.08-07.43.03:501][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.06.08-07.43.03:539][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.06.08-07.43.03:539][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.06.08-07.43.03:539][  0]LogD3D11RHI: D3D11 adapters:
+[2023.06.08-07.43.03:539][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.06.08-07.43.03:539][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4090 Laptop GPU
+[2023.06.08-07.43.03:540][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.08-07.43.03:540][  0]LogD3D11RHI:     DeviceId    : 2757
+[2023.06.08-07.43.03:540][  0]LogD3D11RHI:     SubSysId    : 213d1043
+[2023.06.08-07.43.03:540][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.08-07.43.03:540][  0]LogD3D11RHI:     DedicatedVideoMemory : 16844324864 bytes
+[2023.06.08-07.43.03:540][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.08-07.43.03:540][  0]LogD3D11RHI:     SharedSystemMemory : 16979949568 bytes
+[2023.06.08-07.43.03:540][  0]LogD3D11RHI:     AdapterLuid : 0 74882
+[2023.06.08-07.43.03:681][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4090 Laptop GPU' (Feature Level 11_1)
+[2023.06.08-07.43.03:682][  0]LogD3D11RHI:       16064/0/16193 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     VendorId    : 8086
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     DeviceId    : a788
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     SubSysId    : 213d1043
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     Revision    : 0004
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     SharedSystemMemory : 16979949568 bytes
+[2023.06.08-07.43.03:684][  0]LogD3D11RHI:     AdapterLuid : 0 73657
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_1)
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:       128/0/16193 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     Revision    : 0000
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     SharedSystemMemory : 16979949568 bytes
+[2023.06.08-07.43.03:730][  0]LogD3D11RHI:     AdapterLuid : 0 74745
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:       0/0/16193 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4090 Laptop GPU
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     DeviceId    : 2757
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     SubSysId    : 213d1043
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     DedicatedVideoMemory : 16844324864 bytes
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     SharedSystemMemory : 16979949568 bytes
+[2023.06.08-07.43.03:734][  0]LogD3D11RHI:     AdapterLuid : 0 74882
+[2023.06.08-07.43.03:734][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.08-07.43.03:735][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.08-07.43.03:737][  0]LogHAL: Display: Platform has ~ 32 GB [33959899136 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.08-07.43.03:738][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.08-07.43.03:738][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.08-07.43.03:738][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.08-07.43.03:742][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.08-07.43.03:742][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.08-07.43.03:743][  0]LogInit: Computer: VICTOR
+[2023.06.08-07.43.03:743][  0]LogInit: User: Admin
+[2023.06.08-07.43.03:743][  0]LogInit: CPU Page size=4096, Cores=24
+[2023.06.08-07.43.03:743][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.08-07.43.03:743][  0]LogMemory: Memory total: Physical=31.6GB (32GB approx)
+[2023.06.08-07.43.03:743][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.08-07.43.03:743][  0]LogMemory: Process Physical Memory: 307.43 MB used, 324.18 MB peak
+[2023.06.08-07.43.03:743][  0]LogMemory: Process Virtual Memory: 296.20 MB used, 296.20 MB peak
+[2023.06.08-07.43.03:743][  0]LogMemory: Physical Memory: 8988.47 MB used,  23398.21 MB free, 32386.68 MB total
+[2023.06.08-07.43.03:743][  0]LogMemory: Virtual Memory: 10327.65 MB used,  24107.03 MB free, 34434.68 MB total
+[2023.06.08-07.43.03:743][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.08-07.43.03:752][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.08-07.43.03:820][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.08-07.43.03:823][  0]LogInit: Using OS detected language (fr-FR).
+[2023.06.08-07.43.03:823][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.06.08-07.43.03:841][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so 'fr' will be used for the language.
+[2023.06.08-07.43.03:841][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2023.06.08-07.43.03:841][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2023.06.08-07.43.03:841][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2023.06.08-07.43.03:841][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2023.06.08-07.43.03:842][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2023.06.08-07.43.03:842][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2023.06.08-07.43.03:842][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2023.06.08-07.43.03:859][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.08-07.43.03:905][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.08-07.43.03:905][  0]LogWindowsTextInputMethodSystem:   - Français (France) - (Keyboard).
+[2023.06.08-07.43.03:905][  0]LogWindowsTextInputMethodSystem:   - Français (France) - Correction de l’entrée tactile (TSF IME).
+[2023.06.08-07.43.03:905][  0]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2023.06.08-07.43.03:972][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.08-07.43.03:972][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.08-07.43.05:968][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.06.08-07.43.05:968][  0]LogD3D11RHI:     GPU DeviceId: 0x2757 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.08-07.43.05:968][  0]LogWindows: Attached monitors:
+[2023.06.08-07.43.05:968][  0]LogWindows:     resolution: 2560x1600, work area: (0, 0) -> (2560, 1552), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.06.08-07.43.05:968][  0]LogWindows: Found 1 attached monitors.
+[2023.06.08-07.43.05:968][  0]LogWindows: EnumDisplayDevices:
+[2023.06.08-07.43.05:968][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.06.08-07.43.05:968][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.06.08-07.43.05:968][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.08-07.43.05:968][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.08-07.43.05:968][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4090 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.06.08-07.43.05:969][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4090 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.06.08-07.43.05:969][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4090 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.06.08-07.43.05:969][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4090 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.06.08-07.43.05:969][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.06.08-07.43.05:969][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4090 Laptop GPU
+[2023.06.08-07.43.05:969][  0]LogD3D11RHI:   Driver Version: 531.68 (internal:31.0.15.3168, unified:531.68)
+[2023.06.08-07.43.05:969][  0]LogD3D11RHI:      Driver Date: 4-13-2023
+[2023.06.08-07.43.05:969][  0]LogRHI: Texture pool is 11244 MB (70% of 16064 MB)
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4090 Laptop GPU
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     DeviceId    : 2757
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     SubSysId    : 213d1043
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     DedicatedVideoMemory : 16844324864 bytes
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     SharedSystemMemory : 16979949568 bytes
+[2023.06.08-07.43.05:971][  0]LogD3D11RHI:     AdapterLuid : 0 74882
+[2023.06.08-07.43.06:030][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.06.08-07.43.06:030][  0]LogD3D11RHI: Async texture creation enabled
+[2023.06.08-07.43.06:030][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.06.08-07.43.06:030][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.06.08-07.43.06:182][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.06.08-07.43.06:209][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.06.08-07.43.06:230][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/HorrorEngine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/HorrorEngine.uproject"  -platform=all'
+[2023.06.08-07.43.06:231][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/HorrorEngine.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/HorrorEngine.uproject"  -platform=all" ]
+[2023.06.08-07.43.06:287][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.08-07.43.06:330][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.08-07.43.06:330][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.08-07.43.06:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.08-07.43.06:364][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.06.08-07.43.06:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.08-07.43.06:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.08-07.43.06:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.08-07.43.06:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.08-07.43.06:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.08-07.43.06:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.08-07.43.06:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.08-07.43.06:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.08-07.43.06:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.08-07.43.06:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.08-07.43.06:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.08-07.43.06:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.08-07.43.06:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.08-07.43.06:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.08-07.43.06:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.08-07.43.06:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.08-07.43.06:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.08-07.43.06:394][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.08-07.43.06:439][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.08-07.43.06:445][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.08-07.43.06:445][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.08-07.43.06:445][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.08-07.43.06:445][  0]LogTargetPlatformManager:   PCM
+[2023.06.08-07.43.06:450][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.08-07.43.06:450][  0]LogTargetPlatformManager:   BINKA
+[2023.06.08-07.43.06:450][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.08-07.43.06:450][  0]LogTargetPlatformManager:   OGG
+[2023.06.08-07.43.06:450][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.08-07.43.06:450][  0]LogTargetPlatformManager:   OPUS
+[2023.06.08-07.43.06:623][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.08-07.43.06:638][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.08-07.43.06:653][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.08-07.43.06:653][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.08-07.43.06:653][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.08-07.43.06:653][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.08-07.43.06:653][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.08-07.43.06:653][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.08-07.43.06:653][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.08-07.43.06:653][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.08-07.43.06:663][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.08-07.43.06:668][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.08-07.43.06:668][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.08-07.43.06:673][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.08-07.43.06:685][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.08-07.43.06:686][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.08-07.43.06:686][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.08-07.43.06:686][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.08-07.43.06:715][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.08-07.43.06:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.08-07.43.06:717][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.08-07.43.06:767][  0]LogDerivedDataCache: Speed tests for C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2023.06.08-07.43.06:768][  0]LogDerivedDataCache: Display: Performance to C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.48ms. RandomReadSpeed=24.63MBs, RandomWriteSpeed=222.58MBs. Assigned SpeedClass 'Local'
+[2023.06.08-07.43.06:770][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.08-07.43.06:770][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.08-07.43.06:770][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.08-07.43.06:774][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.08-07.43.06:774][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.08-07.43.06:795][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Intermediate/Shaders/WorkingDirectory/22400/).
+[2023.06.08-07.43.06:795][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/65C8EE9243E4B316C3CE54958E4C8BDC/'.
+[2023.06.08-07.43.06:796][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.08-07.43.06:796][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 16 workers.
+[2023.06.08-07.43.10:821][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.08-07.43.10:832][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.08-07.43.10:879][  0]LogAssetRegistry: FAssetRegistry took 0.0120 seconds to start up
+[2023.06.08-07.43.10:885][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.08-07.43.11:167][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.08-07.43.11:175][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.08-07.43.11:337][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.08-07.43.11:337][  0]LogDeviceProfileManager: Active device profile: [00000817E0EFC780][00000817D94E0000 50] WindowsEditor
+[2023.06.08-07.43.11:337][  0]LogDeviceProfileManager: Profiles: [00000817E0EFC240][00000817D94E5000 50] Windows, [00000817E0EFC780][00000817D94E0000 50] WindowsEditor, [00000817E0EFB440][00000817D9477800 50] WindowsServer, [00000817E0EF9D80][00000817DAD9C800 50] WindowsClient, [00000817E0EF9A00][00000817C2347800 50] IOS, [00000817E0EFC940][00000817D4DA2800 50] iPadAir2, [00000817E0EFCE80][00000817E1340000 50] IPadPro, [00000817E0EFD200][00000817E1342800 50] iPadAir3, [00000817E0EFBD00][00000817E1347800 50] iPadAir4, [00000817E0EF9840][00000817E134A000 50] iPadMini4, [00000817E0EF8180][00000817E134C800 50] iPadMini5, [00000817E0EFC080][00000817D94E2800 50] iPadMini6, [00000817E0EFFC00][00000817E1352800 50] iPhone6S, [00000817E0EFFA40][00000817E1350000 50] iPhone7, [00000817E0EFF6C0][00000817E1355000 50] iPodTouch7, [00000817E0EF9140][00000817E135A000 50] iPhone6SPlus, [00000817E0EFA2C0][00000817E135C800 50] iPhone7Plus, [00000817E0EF86C0][00000817E1345000 50] iPhoneSE, [00000817E0EFCB00][00000817E1357800 50] iPhone8, [00000817E0EFA640][00000817E1300000 50] iPhone8Plus, [00000817E0EF8A40][00000817E1305000 50] iPhoneX, [00000817E0EF9F40][00000817E1307800 50] iPhoneXS, [00000817E0EFF880][00000817E130A000 50] iPhoneXSMax, [00000817E0EFF340][00000817E130C800 50] iPhoneXR, [00000817E0EFB0C0][00000817D940C800 50] iPhone11, [00000817E0EF8500][00000817E1330000 50] iPhone11Pro, [00000817E0EFB600][00000817E1335000 50] iPhone11ProMax, [00000817E0EFE540][00000817E1337800 50] iPhoneSE2, [00000817E0EFD040][00000817E133A000 50] iPhone12Mini, [00000817E0EF7E00][00000817E133C800 50] iPhone12, [00000817E0EFA9C0][00000817E1302800 50] iPhone12Pro, [00000817E0EFDAC0][00000817E1370000 50] iPhone12ProMax, [00000817E0EF8880][00000817E1375000 50] iPhone13Mini, [00000817E0EFF180][00000817E1377800 50] iPhone13, [00000817E0EF8F80][00000817E137A000 50] iPhone13Pro, [00000817E0EF8DC0][00000817E137C800 50] iPhone13ProMax, [00000817E0EFEFC0][00000817E1332800 50] iPadPro105, [00000817E0EFD3C0][00000817E1380000 50] iPadPro129, [00000817E0EFD740][00000817E1385000 50] iPadPro97, [00000817E0EFAD40][00000817E1387800 50] iPadPro2_129, [00000817E0EFB280][00000817E138A000 50] iPad5, [00000817E0EFAF00][00000817E138C800 50] iPad6, [00000817E0EFE000][00000817E1372800 50] iPad7, [00000817E0EFA800][00000817E13A0000 50] iPad8, [00000817E0EF7FC0][00000817E13A5000 50] iPad9, [00000817E0EFF500][00000817E13A7800 50] iPadPro11, [00000817E0EFA480][00000817E13AA000 50] iPadPro2_11, [00000817E0EFE1C0][00000817E13AC800 50] iPadPro3_11, [00000817E0EF8340][00000817E1382800 50] iPadPro3_129, [00000817E0EFA100][00000817E13B0000 50] iPadPro4_129, [00000817E0EFB980][00000817E13B5000 50] iPadPro5_129, [00000817E0EFC5C0][00000817E13B7800 50] AppleTV, [00000817E0EFEA80][00000817E13BA000 50] AppleTV4K, [00000817E0EF9BC0][00000817E13BC800 50] TVOS, [00000817E1401C00][00000817E13E0000 50] Mac, [00000817E1401A40][00000817E13E2800 50] MacEditor, [00000817E1402840][00000817E13E7800 50] MacClient, [00000817E1402300][00000817E13EA000 50] MacServer, [00000817E1404980][00000817E13A2800 50] Linux, [00000817E1404D00][00000817E13B2800 50] LinuxEditor, [00000817E14016C0][00000817E13EC800 50] LinuxArm64Editor, [00000817E1404440][00000817E13F0000 50] LinuxArm64, [00000817E1401880][00000817E13F5000 50] LinuxClient, [00000817E1403F00][00000817E13F7800 50] LinuxArm64Client, [00000817E14024C0][00000817E13FA000 50] LinuxServer, [00000817E1402F40][00000817E13FC800 50] LinuxArm64Server, [00000817E1400380][00000817E13E5000 50] Android, [00000817E1402680][00000817E13C0000 50] Android_Preview_OpenGL, [00000817E1400A80][00000817E13C5000 50] Android_Preview_Vulkan, [00000817E1403640][00000817E13C7800 50] Android_Low, [00000817E1402D80][00000817E13CA000 50] Android_Mid, [00000817E14001C0][00000817E13CC800 50] Android_High, [00000817E14047C0][00000817E13F2800 50] Android_Default, [00000817E1401180][00000817E13D0000 50] Android_Adreno4xx, [00000817E1401DC0][00000817E13D5000 50] Android_Adreno5xx_Low, [00000817E1400540][00000817E13D7800 50] Android_Adreno5xx, [00000817E1404280][00000817E13DA000 50] Android_Adreno6xx, [00000817E14040C0][00000817E13DC800 50] Android_Adreno6xx_Vulkan, [00000817E1404600][00000817E13C2800 50] Android_Adreno7xx, [00000817E1400FC0][00000817E1410000 50] Android_Adreno7xx_Vulkan, [00000817E1400700][00000817E1415000 50] Android_Mali_T6xx, [00000817E1403480][00000817E1417800 50] Android_Mali_T7xx, [00000817E1401500][00000817E141A000 50] Android_Mali_T8xx, [00000817E1401F80][00000817E141C800 50] Android_Mali_G71, [00000817E1403800][00000817E13D2800 50] Android_Mali_G72, [00000817E1403D40][00000817E1420000 50] Android_Mali_G72_Vulkan, [00000817E14039C0][00000817E1425000 50] Android_Mali_G76, [00000817E1404B40][00000817E1427800 50] Android_Mali_G76_Vulkan, [00000817E14008C0][00000817E142A000 50] Android_Mali_G77, [00000817E1405940][00000817E142C800 50] Android_Mali_G77_Vulkan, [00000817E1403B80][00000817E1412800 50] Android_Mali_G78, [00000817E1404EC0][00000817E1430000 50] Android_Mali_G78_Vulkan, [00000817E1400E00][00000817E1435000 50] Android_Mali_G710, [00000817E14032C0][00000817E1437800 50] Android_Mali_G710_Vulkan, [00000817E1401340][00000817E143A000 50] Android_Xclipse_920, [00000817E1402140][00000817E143C800 50] Android_Xclipse_920_Vulkan, [00000817E1405400][00000817E1422800 50] Android_Vulkan_SM5, [00000817E14055C0][00000817E1440000 50] Android_PowerVR_G6xxx, [00000817E1406200][00000817E1445000 50] Android_PowerVR_GT7xxx, [00000817E14063C0][00000817E1447800 50] Android_PowerVR_GE8xxx, [00000817E1406900][00000817E144A000 50] Android_PowerVR_GM9xxx, [00000817E1406740][00000817E144C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000817E1403100][00000817E1432800 50] Android_TegraK1, [00000817E1406C80][00000817E1450000 50] Android_Unknown_Vulkan, [00000817E1405780][00000817E1455000 50] Oculus_Quest, [00000817E1402BC0][00000817E1457800 50] Oculus_Quest2, [00000817E14078C0][00000817E145A000 50] HoloLens, 
+[2023.06.08-07.43.11:337][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.08-07.43.11:464][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.08-07.43.11:700][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.08-07.43.11:700][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.08-07.43.11:700][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.08-07.43.11:700][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.08-07.43.11:701][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.08-07.43.11:748][  0]LogNetVersion: HorrorEngine 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2357571454)
+[2023.06.08-07.43.12:227][  0]LogSlate: Border
+[2023.06.08-07.43.12:227][  0]LogSlate: BreadcrumbButton
+[2023.06.08-07.43.12:227][  0]LogSlate: Default
+[2023.06.08-07.43.12:227][  0]LogSlate: Icons.Save
+[2023.06.08-07.43.12:227][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.08-07.43.12:227][  0]LogSlate: ListView
+[2023.06.08-07.43.12:227][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.08-07.43.12:227][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.08-07.43.12:227][  0]LogSlate: TableView.DarkRow
+[2023.06.08-07.43.12:227][  0]LogSlate: TableView.Row
+[2023.06.08-07.43.12:227][  0]LogSlate: TreeView
+[2023.06.08-07.43.12:766][  0]SourceControl: Source control is disabled
+[2023.06.08-07.43.12:840][  0]SourceControl: Source control is disabled
+[2023.06.08-07.43.12:840][  0]SourceControl: Source control is disabled
+[2023.06.08-07.43.13:039][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.06.08-07.43.13:039][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.06.08-07.43.13:039][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.08-07.43.13:331][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.08-07.43.13:338][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.08-07.43.13:346][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6A853C2F449A29FC6D195781DD7BE46A | Instance: 3517ECEA4A8984D5248A2B876A02EF83 (VICTOR-22400).
+[2023.06.08-07.43.14:383][  0]LogPython: Using Python 3.9.7
+[2023.06.08-07.43.15:166][  0]SourceControl: Source control is disabled
+[2023.06.08-07.43.15:169][  0]LogUProjectInfo: Found projects:
+[2023.06.08-07.43.15:178][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.08-07.43.15:179][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.08-07.43.15:180][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.08-07.43.15:184][  0]SourceControl: Source control is disabled
+[2023.06.08-07.43.15:264][  0]SourceControl: Source control is disabled
+[2023.06.08-07.43.15:791][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.08-07.43.15:794][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.08-07.43.15:823][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.08-07.43.15:823][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.08-07.43.15:970][  0]LogCollectionManager: Loaded 0 collections in 0.001985 seconds
+[2023.06.08-07.43.16:108][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/Collections/' took 0.00s
+[2023.06.08-07.43.16:108][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Developers/Admin/Collections/' took 0.00s
+[2023.06.08-07.43.16:108][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Collections/' took 0.00s
+[2023.06.08-07.43.16:541][  0]LogEngine: Initializing Engine...
+[2023.06.08-07.43.16:571][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.06.08-07.43.16:578][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.06.08-07.43.17:025][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.08-07.43.17:031][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-07.43.17:054][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.43.17:107][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.08-07.43.17:118][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.08-07.43.17:153][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.08-07.43.17:158][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.08-07.43.17:158][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.08-07.43.17:159][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.08-07.43.17:159][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.08-07.43.17:161][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-07.43.17:161][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-07.43.17:161][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-07.43.17:161][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-07.43.17:161][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-07.43.17:161][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-07.43.17:161][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-07.43.17:162][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-07.43.17:163][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-07.43.17:163][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-07.43.17:163][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-07.43.17:188][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-07.43.17:286][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-07.43.17:289][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-07.43.17:313][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-07.43.17:313][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-07.43.17:316][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.08-07.43.17:316][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.08-07.43.17:318][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.08-07.43.17:318][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.08-07.43.17:318][  0]LogInit: FAudioDevice initialized.
+[2023.06.08-07.43.17:318][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.08-07.43.17:318][  0]LogNetVersion: Set ProjectVersion to 2. Version Checksum will be recalculated on next use.
+[2023.06.08-07.43.17:318][  0]LogInit: Texture streaming: Enabled
+[2023.06.08-07.43.17:363][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.08-07.43.17:372][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.08-07.43.17:410][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.08-07.43.17:428][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.08-07.43.17:428][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.06.08-07.43.20:969][  0]LogLiveCoding: Display: First instance in process group "UE_HorrorEngine_0xe80bff22", spawning console
+[2023.06.08-07.43.20:969][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.08-07.43.20:969][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.08-07.43.21:005][  0]LogInit: Transaction tracking system initialized
+[2023.06.08-07.43.21:131][  0]BlueprintLog: New page: Editor Load
+[2023.06.08-07.43.21:415][  0]LocalizationService: Localization service is disabled
+[2023.06.08-07.43.21:486][  0]TimingProfiler: Initialize
+[2023.06.08-07.43.21:486][  0]TimingProfiler: OnSessionChanged
+[2023.06.08-07.43.21:487][  0]LoadingProfiler: Initialize
+[2023.06.08-07.43.21:487][  0]LoadingProfiler: OnSessionChanged
+[2023.06.08-07.43.21:488][  0]NetworkingProfiler: Initialize
+[2023.06.08-07.43.21:490][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.08-07.43.21:490][  0]MemoryProfiler: Initialize
+[2023.06.08-07.43.21:490][  0]MemoryProfiler: OnSessionChanged
+[2023.06.08-07.43.21:717][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.08-07.43.21:718][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.08-07.43.21:718][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.06.08-07.43.22:476][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/' took 0.01s
+[2023.06.08-07.43.22:476][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.08-07.43.22:551][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.08-07.43.22:557][  0]SourceControl: Source control is disabled
+[2023.06.08-07.43.22:557][  0]LogUnrealEdMisc: Loading editor; pre map load, took 24.504
+[2023.06.08-07.43.22:560][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/HorrorEngine/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.08-07.43.22:560][  0]LightingResults: New page: Lighting Build
+[2023.06.08-07.43.22:567][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-07.43.22:568][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.43.22:569][  0]MapCheck: New page: Map Check
+[2023.06.08-07.43.22:569][  0]LightingResults: New page: Lighting Build
+[2023.06.08-07.43.22:581][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-07.43.22:589][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.06.08-07.43.22:828][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/HorrorEngine/HorrorEngine.HorrorEngine_C:HorrorEngineSettings'. Unknown structure.
+[2023.06.08-07.43.24:278][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/HorrorEngine/Blueprints/Core/HE_SaveGameComponent.HE_SaveGameComponent_C:InventoryCache.InventoryCache'. Unknown structure.
+[2023.06.08-07.43.24:278][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/HorrorEngine/Blueprints/Core/HE_SaveGameComponent.HE_SaveGameComponent_C:PhotoDataHolder'. Unknown structure.
+[2023.06.08-07.43.24:289][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/HorrorEngine/Blueprints/Core/HE_GameInstance.HE_GameInstance_C:InventoryCache.InventoryCache'. Unknown structure.
+[2023.06.08-07.43.24:294][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/HorrorEngine/Blueprints/Core/HE_SaveGame.HE_SaveGame_C:Inventory.Inventory'. Unknown structure.
+[2023.06.08-07.43.25:531][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/HorrorEngine/Blueprints/Core/PhotoRestore.PhotoRestore_C:DataHolder'. Unknown structure.
+[2023.06.08-07.43.25:531][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/HorrorEngine/Blueprints/Core/PhotoRestore.PhotoRestore_C:Restore:InventorySave'. Unknown structure.
+[2023.06.08-07.43.25:531][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/HorrorEngine/Blueprints/Core/PhotoRestore.PhotoRestore_C:ExecuteUbergraph_PhotoRestore:K2Node_CustomEvent_InventorySave'. Unknown structure.
+[2023.06.08-07.43.25:531][  0]LogClass: Warning: Property DataHolder of DataHolder has a struct type mismatch (tag STRUCT_REINST_InventorySave_3 != prop FallbackStruct) in package:  /Game/HorrorEngine/Blueprints/Core/PhotoRestore. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.25:970][  0]LogClass: Warning: Property PhotoDataHolder of PhotoDataHolder has a struct type mismatch (tag STRUCT_REINST_InventorySave_3 != prop FallbackStruct) in package:  /Game/HorrorEngine/Blueprints/Core/HE_SaveGameComponent. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.25:999][  0]LogClass: Warning: Property HorrorEngineSettings of HorrorEngineSettings has a struct type mismatch (tag STRUCT_REINST_HorrorEngineSettings_3 != prop FallbackStruct) in package:  /Game/HorrorEngine/HorrorEngine. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.26:720][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Quickload' for  InputAction [HE]Quickload
+[2023.06.08-07.43.26:720][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]ToggleFire' for  InputAction [HE]ToggleFire
+[2023.06.08-07.43.26:720][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Fire' for  InputAction [HE]Fire
+[2023.06.08-07.43.26:720][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]ReloadWeapon' for  InputAction [HE]ReloadWeapon
+[2023.06.08-07.43.26:721][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Pistol' for  InputAction [HE]Pistol
+[2023.06.08-07.43.26:721][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Unequip' for  InputAction [HE]Unequip
+[2023.06.08-07.43.26:721][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Torch' for  InputAction [HE]Torch
+[2023.06.08-07.43.26:721][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Lighter' for  InputAction [HE]Lighter
+[2023.06.08-07.43.26:721][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Glowstick' for  InputAction [HE]Glowstick
+[2023.06.08-07.43.26:721][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]FlashlightFocus' for  InputAction [HE]FlashlightFocus
+[2023.06.08-07.43.26:721][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Flashlight' for  InputAction [HE]Flashlight
+[2023.06.08-07.43.26:722][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]LeanRight' for  InputAction [HE]LeanRight
+[2023.06.08-07.43.26:722][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]LeanLeft' for  InputAction [HE]LeanLeft
+[2023.06.08-07.43.26:722][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Crouch' for  InputAction [HE]Crouch
+[2023.06.08-07.43.26:722][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\HorrorEngine.uasset: [Compiler] InputAction Event references unknown Action '[HE]Jump' for  InputAction [HE]Jump
+[2023.06.08-07.43.26:939][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\DoorsAndFurnitures\Cabinet.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.26:982][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\DoorsAndFurnitures\Door.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.27:015][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\DoorsAndFurnitures\Drawer.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.27:035][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Electronics\E-Door.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.27:100][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\DoorsAndFurnitures\LadderAdvanced.uasset: [Compiler] InputAction Event references unknown Action '[HE]Jump' for  InputAction [HE]Jump
+[2023.06.08-07.43.27:116][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\PortalAndTriggers\LookTrigger.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.27:126][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Electronics\OldTv.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.27:180][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\DoorsAndFurnitures\SlidingDoor.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.27:198][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Electronics\Tv.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.29:398][  0]LogClass: Warning: Array Property InventoryCache of InventoryCache contains a struct type mismatch (tag FallbackStruct != prop InventorySave) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.29:399][  0]LogClass: Warning: Array Property Inventory of Inventory contains a struct type mismatch (tag FallbackStruct != prop InventorySave) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.29:399][  0]LogClass: Warning: Array Property InventoryCache of InventoryCache contains a struct type mismatch (tag FallbackStruct != prop InventorySave) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.29:399][  0]LogClass: Warning: Property PhotoDataHolder of PhotoDataHolder has a struct type mismatch (tag FallbackStruct != prop InventorySave) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.29:399][  0]LogClass: Warning: Property HorrorEngineSettings of HorrorEngineSettings has a struct type mismatch (tag FallbackStruct != prop HorrorEngineSettings) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.29:400][  0]LogClass: Warning: Property DataHolder of DataHolder has a struct type mismatch (tag FallbackStruct != prop InventorySave) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2023.06.08-07.43.29:754][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Lights\Pointlight.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.29:832][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Lights\Spotlight.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.29:966][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\PortalAndTriggers\Portal.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.30:270][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Electronics\SecurityAlarm.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.30:276][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Electronics\SecurityCam.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.30:300][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Electronics\SecurityControl.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.30:311][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Electronics\SecurityMonitor.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.30:523][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\PortalAndTriggers\PutTrigger.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.30:577][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\PortalAndTriggers\PuzzleMaker.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.30:892][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Controllers\Button.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.30:986][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Controllers\Lever.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.31:082][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Controllers\SecretBook.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.31:186][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Controllers\SecretPainting.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.31:267][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\HorrorEngine\Blueprints\UsableAssets\Controllers\SecretTorch.uasset: [Compiler] Input pin  Inserted Vhs  specifying non-default value no longer exists on node  Make AssetsSave . Please refresh node or reset pin to default value to remove pin.
+[2023.06.08-07.43.36:404][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix': Can't find file.
+[2023.06.08-07.43.36:405][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix': Can't find file.
+[2023.06.08-07.43.36:405][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventFix.HorrorEventFix'
+[2023.06.08-07.43.36:408][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix': Can't find file.
+[2023.06.08-07.43.36:408][  0]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix': Can't find file.
+[2023.06.08-07.43.36:408][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Blueprints/Structures/HorrorEvent/HorrorEventsMasterFix.HorrorEventsMasterFix'
+[2023.06.08-07.43.38:454][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2023.06.08-07.43.38:454][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-07.43.38:454][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.43.38:454][  0]LogAIModule: Creating AISystem for world Overview
+[2023.06.08-07.43.38:503][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.08-07.43.38:571][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.08-07.43.38:573][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.08-07.43.38:574][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,517ms to complete.
+[2023.06.08-07.43.38:574][  0]LogFileHelpers: Loading map 'Overview' took 16.014
+[2023.06.08-07.43.38:608][  0]LogUnrealEdMisc: Total Editor Startup Time, took 40.556
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: ================================================
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.08-07.43.38:608][  0]LogShaderCompilers: Display: ================================================
+[2023.06.08-07.43.38:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.43.38:818][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.43.38:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.43.38:824][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.43.38:883][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:883][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:889][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:889][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:895][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:895][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:901][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:901][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:910][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:910][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:914][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:915][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:919][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:919][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:925][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:925][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:929][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:929][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:935][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.08-07.43.38:935][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.08-07.43.38:936][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.06.08-07.43.39:304][  0]LogSlate: Took 0.005924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.08-07.43.39:314][  0]LogSlate: Took 0.004576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.08-07.43.39:323][  0]LogSlate: Took 0.007977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.08-07.43.39:328][  0]LogSlate: Took 0.003922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.08-07.43.39:334][  0]LogSlate: Took 0.004195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.08-07.43.39:357][  0]LogViewport: Scene viewport resized to 2175x995, mode Windowed.
+[2023.06.08-07.43.39:477][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2023.06.08-07.43.39:477][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2023.06.08-07.43.39:477][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_VhsGlow'
+[2023.06.08-07.43.39:477][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2023.06.08-07.43.39:477][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2023.06.08-07.43.39:477][  0]Warning:  applied to a non-external Texture2D sampler. This may work by chance on some platforms but is not portable. Please change sampler type to 'External'. Parameter 'Texture' (slot 0) in material 'HE_TvGlow'
+[2023.06.08-07.43.39:604][  0]LogStall: Startup...
+[2023.06.08-07.43.39:606][  0]LogStall: Startup complete.
+[2023.06.08-07.43.39:631][  0]LogLoad: (Engine Initialization) Total time: 41.58 seconds
+[2023.06.08-07.43.39:631][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.08-07.43.39:730][  0]LogAssetRegistry: Asset discovery search completed in 28.8524 seconds
+[2023.06.08-07.43.39:764][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.06.08-07.43.39:808][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.08-07.43.40:076][  2]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.08-07.43.40:076][  2]LogSlate: Took 0.003705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.08-07.43.51:154][205]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Interface.E-Mail_Interface
+[2023.06.08-07.43.51:156][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.43.51:162][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.43.51:172][205]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.06.08-07.43.52:488][205]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.08-07.43.52:488][205]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.08-07.43.52:691][205]LogSlate: Took 0.005768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.08-07.43.52:694][205]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.06.08-07.43.52:955][207]LogSlate: Took 0.011839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.06.08-07.44.09:367][614]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Textures/HUD/YouDied': Can't find file.
+[2023.06.08-07.44.09:368][614]LogLinker: Warning: Failed to load '/Game/HorrorEngine/Textures/HUD/YouDied': Can't find file.
+[2023.06.08-07.44.09:368][614]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/HorrorEngine/Textures/HUD/YouDied.YouDied'
+[2023.06.08-07.45.00:143][469]BlueprintLog: New page: Compile E-Mail_Interface
+[2023.06.08-07.45.00:329][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.06.08-07.45.00:902][488]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.014568 seconds
+[2023.06.08-07.45.00:927][488]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Interface
+[2023.06.08-07.45.00:929][488]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_InterfaceB8F10FB54BD395AFD528FAB8E259DEFA.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_Interface.uasset'
+[2023.06.08-07.45.00:964][488]AssetCheck: New page: Asset Save: E-Mail_Interface
+[2023.06.08-07.45.00:965][488]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Interface.E-Mail_Interface
+[2023.06.08-07.45.02:544][545]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-07.45.02:544][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.45.02:596][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.45.03:014][545]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.08-07.45.03:014][545]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.08-07.45.12:635][ 68]LogDerivedDataCache: C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.864 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.08-07.46.01:504][910]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.E-Mail_Contenu
+[2023.06.08-07.46.01:504][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.46.01:550][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.46.01:919][910]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.08-07.46.01:919][910]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.08-07.47.20:413][283]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_PhishingCharacter.BP_PhishingCharacter
+[2023.06.08-07.47.20:416][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.50.25:217][179]BlueprintLog: New page: Compile BP_PhishingCharacter
+[2023.06.08-07.50.25:382][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.06.08-07.50.26:037][195]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_PhishingCharacter
+[2023.06.08-07.50.26:038][195]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/BP_PhishingCharacter67C2114641A6C9FBB5C866BA1F7750DA.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/ThirdPerson/Blueprints/BP_PhishingCharacter.uasset'
+[2023.06.08-07.50.26:077][195]AssetCheck: New page: Asset Save: BP_PhishingCharacter
+[2023.06.08-07.50.26:077][195]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_PhishingCharacter.BP_PhishingCharacter
+[2023.06.08-07.51.47:457][896]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-07.51.47:554][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.06.08-07.51.48:193][919]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-07.51.48:194][919]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItems08E270134E8E1F1832E7BBA1BBF22266.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-07.51.48:259][919]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-07.51.48:259][919]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-07.53.14:805][642]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-07.53.14:946][642]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.06.08-07.53.15:561][665]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-07.53.15:562][665]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItems1DD9A4814CAFE5C236F380A45B17DE82.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-07.53.15:600][665]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-07.53.15:600][665]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-07.53.22:787][ 55]BlueprintLog: New page: Compile E-Mail_Contenu
+[2023.06.08-07.53.22:898][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.06.08-07.53.23:424][ 68]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu
+[2023.06.08-07.53.23:424][ 68]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_Contenu8DACFDD34526AB0212777ABEECDCCA47.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.uasset'
+[2023.06.08-07.53.23:463][ 68]AssetCheck: New page: Asset Save: E-Mail_Contenu
+[2023.06.08-07.53.23:463][ 68]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.E-Mail_Contenu
+[2023.06.08-07.53.38:045][857]LogEditorTransaction: Undo Move Node
+[2023.06.08-07.53.40:266][941]LogEditorTransaction: Undo Add Node
+[2023.06.08-07.54.18:642][985]BlueprintLog: New page: Compile E-Mail_Contenu
+[2023.06.08-07.54.18:648][985]LogBlueprint: Error: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\Expose\Blueprints\Widgets\E-mails\E-Mail_Contenu.uasset: [Compiler] This blueprint (self) is not a BP_PhishingCharacter_C, therefore ' Target ' must have a connection.
+[2023.06.08-07.54.18:648][985]LogBlueprint: Error: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\Expose\Blueprints\Widgets\E-mails\E-Mail_Contenu.uasset: [Compiler] Variable node  Set Encours  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.08-07.54.18:768][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.06.08-07.54.27:348][404]BlueprintLog: New page: Compile E-Mail_Contenu
+[2023.06.08-07.54.27:431][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.06.08-07.54.28:047][422]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu
+[2023.06.08-07.54.28:048][422]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ContenuACD28A0A435AFFF59E1C0DACC68FCC25.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.uasset'
+[2023.06.08-07.54.28:091][422]AssetCheck: New page: Asset Save: E-Mail_Contenu
+[2023.06.08-07.54.28:091][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.E-Mail_Contenu
+[2023.06.08-07.54.32:711][662]BlueprintLog: New page: Compile E-Mail_Contenu
+[2023.06.08-07.54.32:841][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.06.08-07.54.33:568][687]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu
+[2023.06.08-07.54.33:569][687]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_Contenu21DD7EBE40A430CA6DB63A846C6A853E.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.uasset'
+[2023.06.08-07.54.33:597][687]AssetCheck: New page: Asset Save: E-Mail_Contenu
+[2023.06.08-07.54.33:597][687]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.E-Mail_Contenu
+[2023.06.08-07.56.40:539][640]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-07.56.40:543][640]LogBlueprint: Error: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\Expose\Blueprints\Widgets\E-mails\E-Mail_ListViewItems.uasset: [Compiler] This blueprint (self) is not a BP_PhishingCharacter_C, therefore ' Target ' must have a connection.
+[2023.06.08-07.56.40:544][640]LogBlueprint: Error: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\Expose\Blueprints\Widgets\E-mails\E-Mail_ListViewItems.uasset: [Compiler] Variable node  Set Encours  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.08-07.56.40:611][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.06.08-07.56.41:496][676]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-07.56.41:498][676]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItemsC8C1C0FC42E5135DE48112A7556C0849.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-07.56.41:551][676]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-07.56.41:552][676]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-07.56.49:815][ 97]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-07.56.49:911][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.06.08-07.56.50:600][122]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-07.56.50:601][122]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItems2E2DFD0A475BEC14997694A9625055B1.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-07.56.50:629][122]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-07.56.50:629][122]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-07.56.56:613][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.08-07.56.57:322][291]LogBlueprint: Warning: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.06.08-07.56.57:536][291]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Expose/Phishing.Phishing
+[2023.06.08-07.56.57:536][291]Cmd: MAP LOAD FILE="../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Phishing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.08-07.56.57:536][291]LightingResults: New page: Lighting Build
+[2023.06.08-07.56.57:537][291]LoadErrors: New page: Loading map: Phishing.umap
+[2023.06.08-07.56.57:548][291]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-07.56.57:548][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.56.57:549][291]MapCheck: New page: Map Check
+[2023.06.08-07.56.57:549][291]LightingResults: New page: Lighting Build
+[2023.06.08-07.56.57:585][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-07.56.57:596][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.06.08-07.56.57:600][291]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-07.56.57:600][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.56.57:633][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.06.08-07.56.57:663][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.06.08-07.56.57:679][291]LogAudio: Display: Audio Device (ID: 1) registered with world 'Phishing'.
+[2023.06.08-07.56.57:679][291]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-07.56.57:679][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.56.57:679][291]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-07.56.57:692][291]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.08-07.56.57:727][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.08-07.56.57:737][291]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.08-07.56.57:737][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,088ms to complete.
+[2023.06.08-07.56.57:737][291]LogFileHelpers: Loading map 'Phishing' took 0.201
+[2023.06.08-07.56.59:124][330]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.08-07.56.59:152][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.08-07.56.59:153][330]PIE: New page: PIE session: Phishing (8 juin 2023 à 11:56:59)
+[2023.06.08-07.56.59:164][330]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.06.08-07.56.59:165][330]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.08-07.56.59:165][330]LogPlayLevel: Creating play world package: /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-07.56.59:171][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005883s)
+[2023.06.08-07.56.59:171][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Expose/Phishing.Phishing to /Game/Expose/UEDPIE_0_Phishing.Phishing (0.006767s)
+[2023.06.08-07.56.59:172][330]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-07.56.59:172][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.56.59:172][330]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-07.56.59:173][330]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2023.06.08-07.56.59:265][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.06.08-07.56.59:268][330]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.08-07.56.59:268][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-07.56.59:268][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-07.56.59:268][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-07.56.59:268][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-07.56.59:268][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-07.56.59:268][330]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-07.56.59:268][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-07.56.59:268][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-07.56.59:268][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-07.56.59:268][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-07.56.59:268][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-07.56.59:272][330]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-07.56.59:442][330]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-07.56.59:442][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-07.56.59:442][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-07.56.59:442][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-07.56.59:443][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.06.08-07.56.59:443][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.06.08-07.56.59:445][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.06.08-07.56.59:445][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.06.08-07.56.59:445][330]LogInit: FAudioDevice initialized.
+[2023.06.08-07.56.59:445][330]LogAudio: Display: Audio Device (ID: 2) registered with world 'Phishing'.
+[2023.06.08-07.56.59:470][330]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.08-07.56.59:473][330]LogWorld: Bringing World /Game/Expose/UEDPIE_0_Phishing.Phishing up for play (max tick rate 60) at 2023.06.08-09.56.59
+[2023.06.08-07.56.59:474][330]LogWorld: Bringing up level for play took: 0.004277
+[2023.06.08-07.56.59:477][330]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.06.08-07.56.59:516][330]PIE: Server logged in
+[2023.06.08-07.56.59:518][330]PIE: Play in editor total start time 0,372 seconds.
+[2023.06.08-07.57.00:462][348]LogBlueprintUserMessages: [BP_PhishingCharacter_C_1] Open
+[2023.06.08-07.57.01:581][402]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_0.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0362
+[2023.06.08-07.57.01:581][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.57.02:476][453]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_0.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:021E
+[2023.06.08-07.57.02:476][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.57.03:313][500]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_0.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0362
+[2023.06.08-07.57.03:314][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.57.03:801][526]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_0.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:021E
+[2023.06.08-07.57.03:801][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.57.05:384][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.57.05:384][580]LogWorld: BeginTearingDown for /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-07.57.05:384][580]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-07.57.05:385][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.57.05:407][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.08-07.57.05:416][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.57.05:495][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.57.05:498][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.08-07.57.05:502][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.08-07.57.05:576][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.06.08-07.57.05:756][581]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.06.08-07.57.09:140][695]LogSlate: Window 'Message Log' being destroyed
+[2023.06.08-07.57.09:190][695]LogSlate: Window 'Message Log' being destroyed
+[2023.06.08-07.57.18:589][222]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-07.57.18:713][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.06.08-07.57.19:398][238]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-07.57.19:399][238]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItems7D0D36434ABE21FCE9CA08A6F4638508.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-07.57.19:457][238]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-07.57.19:457][238]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-07.57.27:570][692]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.08-07.57.27:585][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.08-07.57.27:585][692]PIE: New page: PIE session: Phishing (8 juin 2023 à 11:57:27)
+[2023.06.08-07.57.27:585][692]LogPlayLevel: Creating play world package: /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-07.57.27:589][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003243s)
+[2023.06.08-07.57.27:589][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Expose/Phishing.Phishing to /Game/Expose/UEDPIE_0_Phishing.Phishing (0.003331s)
+[2023.06.08-07.57.27:589][692]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-07.57.27:589][692]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.57.27:589][692]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-07.57.27:590][692]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2023.06.08-07.57.27:673][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.06.08-07.57.27:676][692]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.06.08-07.57.27:676][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-07.57.27:676][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-07.57.27:676][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-07.57.27:676][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-07.57.27:676][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-07.57.27:676][692]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-07.57.27:676][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-07.57.27:676][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-07.57.27:677][692]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-07.57.27:677][692]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-07.57.27:677][692]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-07.57.27:679][692]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-07.57.27:813][692]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-07.57.27:813][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-07.57.27:814][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-07.57.27:814][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-07.57.27:814][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.06.08-07.57.27:814][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.06.08-07.57.27:817][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.06.08-07.57.27:817][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.06.08-07.57.27:817][692]LogInit: FAudioDevice initialized.
+[2023.06.08-07.57.27:817][692]LogAudio: Display: Audio Device (ID: 3) registered with world 'Phishing'.
+[2023.06.08-07.57.27:833][692]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.08-07.57.27:837][692]LogWorld: Bringing World /Game/Expose/UEDPIE_0_Phishing.Phishing up for play (max tick rate 60) at 2023.06.08-09.57.27
+[2023.06.08-07.57.27:837][692]LogWorld: Bringing up level for play took: 0.003992
+[2023.06.08-07.57.27:840][692]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.06.08-07.57.27:841][692]PIE: Server logged in
+[2023.06.08-07.57.27:842][692]PIE: Play in editor total start time 0,258 seconds.
+[2023.06.08-07.57.28:947][756]LogBlueprintUserMessages: [BP_PhishingCharacter_C_1] Open
+[2023.06.08-07.57.31:111][867]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_1.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0362
+[2023.06.08-07.57.31:111][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.57.33:211][981]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_1.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:021E
+[2023.06.08-07.57.33:211][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.57.33:687][  7]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_1.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0362
+[2023.06.08-07.57.33:687][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.57.34:641][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.57.34:641][ 43]LogWorld: BeginTearingDown for /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-07.57.34:642][ 43]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-07.57.34:642][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.57.34:661][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.08-07.57.34:674][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.57.34:771][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-07.57.34:772][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.06.08-07.57.34:776][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.06.08-07.57.34:798][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.57.34:803][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.06.08-07.57.34:986][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.06.08-07.58.22:143][545]BlueprintLog: New page: Compile BP_PhishingCharacter
+[2023.06.08-07.58.22:310][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.06.08-07.58.22:924][559]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_PhishingCharacter
+[2023.06.08-07.58.22:925][559]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/BP_PhishingCharacter8C0B74CE4145614115D9ECBD9EFD066B.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/ThirdPerson/Blueprints/BP_PhishingCharacter.uasset'
+[2023.06.08-07.58.22:975][559]AssetCheck: New page: Asset Save: BP_PhishingCharacter
+[2023.06.08-07.58.22:975][559]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_PhishingCharacter.BP_PhishingCharacter
+[2023.06.08-07.59.24:224][ 92]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-07.59.24:314][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.06.08-07.59.24:926][111]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-07.59.24:927][111]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItemsACBD3B374CC56AFAB33A16B16DBA1108.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-07.59.24:963][111]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-07.59.24:963][111]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-07.59.26:378][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.08-07.59.26:398][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.08-07.59.26:398][179]PIE: New page: PIE session: Phishing (8 juin 2023 à 11:59:26)
+[2023.06.08-07.59.26:398][179]LogPlayLevel: Creating play world package: /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-07.59.26:402][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003579s)
+[2023.06.08-07.59.26:402][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Expose/Phishing.Phishing to /Game/Expose/UEDPIE_0_Phishing.Phishing (0.003715s)
+[2023.06.08-07.59.26:402][179]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-07.59.26:402][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-07.59.26:403][179]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-07.59.26:403][179]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2023.06.08-07.59.26:497][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.06.08-07.59.26:499][179]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.06.08-07.59.26:499][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-07.59.26:499][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-07.59.26:499][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-07.59.26:499][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-07.59.26:499][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-07.59.26:499][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-07.59.26:499][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-07.59.26:499][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-07.59.26:500][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-07.59.26:500][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-07.59.26:500][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-07.59.26:503][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-07.59.26:647][179]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-07.59.26:648][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-07.59.26:648][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-07.59.26:648][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-07.59.26:649][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.06.08-07.59.26:649][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.06.08-07.59.26:651][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.06.08-07.59.26:651][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.06.08-07.59.26:651][179]LogInit: FAudioDevice initialized.
+[2023.06.08-07.59.26:651][179]LogAudio: Display: Audio Device (ID: 4) registered with world 'Phishing'.
+[2023.06.08-07.59.26:664][179]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.08-07.59.26:667][179]LogWorld: Bringing World /Game/Expose/UEDPIE_0_Phishing.Phishing up for play (max tick rate 60) at 2023.06.08-09.59.26
+[2023.06.08-07.59.26:668][179]LogWorld: Bringing up level for play took: 0.003574
+[2023.06.08-07.59.26:670][179]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.06.08-07.59.26:672][179]PIE: Server logged in
+[2023.06.08-07.59.26:673][179]PIE: Play in editor total start time 0,275 seconds.
+[2023.06.08-07.59.27:172][207]LogBlueprintUserMessages: [BP_PhishingCharacter_C_1] Open
+[2023.06.08-07.59.29:943][359]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-07.59.29:943][359]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_2.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:03E9
+[2023.06.08-07.59.29:943][359]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.59.33:363][549]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] true
+[2023.06.08-07.59.33:363][549]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_2.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:02A5
+[2023.06.08-07.59.33:364][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-07.59.36:281][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.59.36:282][680]LogWorld: BeginTearingDown for /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-07.59.36:282][680]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-07.59.36:282][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.59.36:298][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.08-07.59.36:311][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-07.59.36:417][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-07.59.36:418][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.06.08-07.59.36:421][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.06.08-07.59.36:446][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-07.59.36:454][680]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2023.06.08-07.59.36:610][681]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.06.08-07.59.38:752][761]LogSlate: Window 'Message Log' being destroyed
+[2023.06.08-07.59.38:822][761]LogSlate: Window 'Message Log' being destroyed
+[2023.06.08-08.00.10:027][396]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-08.00.10:117][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.06.08-08.00.10:607][412]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-08.00.10:607][412]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItemsD83E790E40C78CBCA7A3459EFB330B5F.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-08.00.10:643][412]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-08.00.10:643][412]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-08.00.40:809][ 48]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-08.00.40:813][ 48]LogBlueprint: Error: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\Expose\Blueprints\Widgets\E-mails\E-Mail_ListViewItems.uasset: [Compiler] This blueprint (self) is not a BP_PhishingCharacter_C, therefore ' Target ' must have a connection.
+[2023.06.08-08.00.40:813][ 48]LogBlueprint: Error: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\Expose\Blueprints\Widgets\E-mails\E-Mail_ListViewItems.uasset: [Compiler] This blueprint (self) is not a BP_PhishingCharacter_C, therefore ' Target ' must have a connection.
+[2023.06.08-08.00.40:813][ 48]LogBlueprint: Error: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\Expose\Blueprints\Widgets\E-mails\E-Mail_ListViewItems.uasset: [Compiler] Variable node  Set Encours  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.08-08.00.40:814][ 48]LogBlueprint: Error: [AssetLog] C:\Users\Admin\Desktop\Stage ComCyberGend\Exposé\Content\Expose\Blueprints\Widgets\E-mails\E-Mail_ListViewItems.uasset: [Compiler] Variable node  Set Encours  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.08-08.00.40:930][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.06.08-08.00.50:083][498]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-08.00.50:170][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.06.08-08.00.50:725][514]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-08.00.50:726][514]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItems57C93C844A0B696FD001868D242A4C6A.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-08.00.50:776][514]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-08.00.50:776][514]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-08.00.51:942][573]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.08-08.00.51:964][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.08-08.00.51:964][573]PIE: New page: PIE session: Phishing (8 juin 2023 à 12:00:51)
+[2023.06.08-08.00.51:964][573]LogPlayLevel: Creating play world package: /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.00.51:969][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003987s)
+[2023.06.08-08.00.51:969][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Expose/Phishing.Phishing to /Game/Expose/UEDPIE_0_Phishing.Phishing (0.004118s)
+[2023.06.08-08.00.51:969][573]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-08.00.51:969][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-08.00.51:970][573]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-08.00.51:970][573]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2023.06.08-08.00.52:058][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.06.08-08.00.52:062][573]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.06.08-08.00.52:062][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-08.00.52:062][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-08.00.52:062][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-08.00.52:062][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-08.00.52:062][573]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-08.00.52:062][573]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-08.00.52:062][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-08.00.52:062][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-08.00.52:063][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-08.00.52:063][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-08.00.52:063][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-08.00.52:067][573]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-08.00.52:228][573]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-08.00.52:229][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-08.00.52:229][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-08.00.52:229][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-08.00.52:231][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.06.08-08.00.52:231][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.06.08-08.00.52:233][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.06.08-08.00.52:233][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.06.08-08.00.52:233][573]LogInit: FAudioDevice initialized.
+[2023.06.08-08.00.52:233][573]LogAudio: Display: Audio Device (ID: 5) registered with world 'Phishing'.
+[2023.06.08-08.00.52:250][573]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.08-08.00.52:254][573]LogWorld: Bringing World /Game/Expose/UEDPIE_0_Phishing.Phishing up for play (max tick rate 60) at 2023.06.08-10.00.52
+[2023.06.08-08.00.52:254][573]LogWorld: Bringing up level for play took: 0.003657
+[2023.06.08-08.00.52:256][573]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.06.08-08.00.52:258][573]PIE: Server logged in
+[2023.06.08-08.00.52:259][573]PIE: Play in editor total start time 0,295 seconds.
+[2023.06.08-08.00.52:624][593]LogBlueprintUserMessages: [BP_PhishingCharacter_C_1] Open
+[2023.06.08-08.00.53:622][653]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.00.53:622][653]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_3.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:03C6
+[2023.06.08-08.00.53:622][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.00.54:736][716]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] true
+[2023.06.08-08.00.54:736][716]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_3.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0282
+[2023.06.08-08.00.54:736][716]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.00.55:420][752]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] false
+[2023.06.08-08.00.55:420][752]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_3.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_1
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:03C6
+[2023.06.08-08.00.55:420][752]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.00.55:820][774]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.00.55:820][774]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_3.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_1
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0282
+[2023.06.08-08.00.55:820][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.00.57:017][843]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] false
+[2023.06.08-08.00.57:017][843]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_3.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_1
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:03C6
+[2023.06.08-08.00.57:017][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.00.57:415][866]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.00.57:415][866]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_3.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_1
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0282
+[2023.06.08-08.00.57:415][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.00.59:390][979]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_2] false
+[2023.06.08-08.00.59:390][979]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_3.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_2
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:03C6
+[2023.06.08-08.00.59:391][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.00.59:931][ 10]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_2] true
+[2023.06.08-08.00.59:931][ 10]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_3.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_2
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0282
+[2023.06.08-08.00.59:931][ 10]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.01.05:482][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.01.05:482][292]LogWorld: BeginTearingDown for /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.01.05:482][292]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-08.01.05:483][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.01.05:501][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.08-08.01.05:514][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.01.05:616][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.01.05:616][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.08-08.01.05:620][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.08-08.01.05:653][292]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.06.08-08.01.05:892][293]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.06.08-08.01.07:760][362]LogSlate: Window 'Message Log' being destroyed
+[2023.06.08-08.01.07:814][362]LogSlate: Window 'Message Log' being destroyed
+[2023.06.08-08.01.50:564][749]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-08.01.50:649][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.06.08-08.01.51:532][785]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-08.01.51:533][785]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItemsB9B24A164246FC55C9BE5F9BD4E58AAB.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-08.01.51:586][785]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-08.01.51:586][785]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-08.01.52:606][840]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.08-08.01.52:621][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.08-08.01.52:621][840]PIE: New page: PIE session: Phishing (8 juin 2023 à 12:01:52)
+[2023.06.08-08.01.52:621][840]LogPlayLevel: Creating play world package: /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.01.52:625][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003605s)
+[2023.06.08-08.01.52:625][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Expose/Phishing.Phishing to /Game/Expose/UEDPIE_0_Phishing.Phishing (0.003703s)
+[2023.06.08-08.01.52:625][840]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-08.01.52:625][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-08.01.52:626][840]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-08.01.52:626][840]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2023.06.08-08.01.52:705][840]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.06.08-08.01.52:708][840]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.06.08-08.01.52:708][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-08.01.52:708][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-08.01.52:708][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-08.01.52:708][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-08.01.52:708][840]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-08.01.52:708][840]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-08.01.52:708][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-08.01.52:708][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-08.01.52:708][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-08.01.52:708][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-08.01.52:708][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-08.01.52:712][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-08.01.52:854][840]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-08.01.52:855][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-08.01.52:855][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-08.01.52:855][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-08.01.52:857][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.06.08-08.01.52:857][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.06.08-08.01.52:859][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.06.08-08.01.52:860][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.06.08-08.01.52:860][840]LogInit: FAudioDevice initialized.
+[2023.06.08-08.01.52:860][840]LogAudio: Display: Audio Device (ID: 6) registered with world 'Phishing'.
+[2023.06.08-08.01.52:877][840]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.08-08.01.52:880][840]LogWorld: Bringing World /Game/Expose/UEDPIE_0_Phishing.Phishing up for play (max tick rate 60) at 2023.06.08-10.01.52
+[2023.06.08-08.01.52:880][840]LogWorld: Bringing up level for play took: 0.003648
+[2023.06.08-08.01.52:882][840]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.06.08-08.01.52:884][840]PIE: Server logged in
+[2023.06.08-08.01.52:885][840]PIE: Play in editor total start time 0,265 seconds.
+[2023.06.08-08.01.53:370][867]LogBlueprintUserMessages: [BP_PhishingCharacter_C_1] Open
+[2023.06.08-08.01.55:415][977]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.01.55:415][977]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_4.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0419
+[2023.06.08-08.01.55:415][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.01.56:784][ 47]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] true
+[2023.06.08-08.01.56:784][ 47]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_4.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:02D5
+[2023.06.08-08.01.56:784][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.01.59:266][187]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.01.59:266][187]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_4.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0419
+[2023.06.08-08.01.59:266][187]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.02.00:715][269]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] true
+[2023.06.08-08.02.00:715][269]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_4.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_0
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:02D5
+[2023.06.08-08.02.00:715][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.02.01:501][313]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] false
+[2023.06.08-08.02.01:501][313]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_4.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_1
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:0419
+[2023.06.08-08.02.01:501][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Add to Viewport Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.02.02:046][343]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.02.02:046][343]LogScript: Warning: Accessed None trying to read property Contenu Ref
+	E-Mail_ListViewItems_C /Engine/Transient.UnrealEdEngine_0:HE_GameInstance_C_4.E-Mail_Interface_C_0.WidgetTree.E-Mail_ListViewItems_C_1
+	Function /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems_C:ExecuteUbergraph_E-Mail_ListViewItems:02D5
+[2023.06.08-08.02.02:047][343]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Contenu Ref". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph E-Mail List View Items Blueprint:  E-Mail_ListViewItems
+[2023.06.08-08.02.03:731][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.02.03:731][406]LogWorld: BeginTearingDown for /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.02.03:732][406]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-08.02.03:732][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.02.03:750][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.08-08.02.03:762][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.02.03:865][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-08.02.03:867][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.08-08.02.03:869][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.08-08.02.03:896][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.02.03:902][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.06.08-08.02.04:149][407]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.06.08-08.02.14:268][728]LogSlate: Window 'Message Log' being destroyed
+[2023.06.08-08.02.14:357][728]LogSlate: Window 'Message Log' being destroyed
+[2023.06.08-08.03.21:804][709]BlueprintLog: New page: Compile E-Mail_Contenu
+[2023.06.08-08.03.21:918][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.06.08-08.03.22:578][728]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu
+[2023.06.08-08.03.22:580][728]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_Contenu1FF5E7D140A8EFDBCF227A82C26DF86E.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.uasset'
+[2023.06.08-08.03.22:621][728]AssetCheck: New page: Asset Save: E-Mail_Contenu
+[2023.06.08-08.03.22:621][728]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.E-Mail_Contenu
+[2023.06.08-08.04.11:181][464]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-08.04.11:270][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.06.08-08.04.11:844][482]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-08.04.11:845][482]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItems4382B8F7430FB23E1FE98190189B00A7.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-08.04.11:892][482]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-08.04.11:892][482]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-08.04.13:077][546]LogEditorViewport: Clicking Background
+[2023.06.08-08.04.14:556][615]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.08-08.04.14:576][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.08-08.04.14:576][615]PIE: New page: PIE session: Phishing (8 juin 2023 à 12:04:14)
+[2023.06.08-08.04.14:576][615]LogPlayLevel: Creating play world package: /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.04.14:581][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004660s)
+[2023.06.08-08.04.14:581][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Expose/Phishing.Phishing to /Game/Expose/UEDPIE_0_Phishing.Phishing (0.004791s)
+[2023.06.08-08.04.14:581][615]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-08.04.14:582][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-08.04.14:582][615]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-08.04.14:583][615]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2023.06.08-08.04.14:692][615]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.06.08-08.04.14:697][615]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.06.08-08.04.14:697][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-08.04.14:697][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-08.04.14:697][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-08.04.14:697][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-08.04.14:697][615]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-08.04.14:697][615]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-08.04.14:697][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-08.04.14:697][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-08.04.14:698][615]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-08.04.14:698][615]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-08.04.14:698][615]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-08.04.14:701][615]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-08.04.14:860][615]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-08.04.14:860][615]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-08.04.14:860][615]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-08.04.14:860][615]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-08.04.14:862][615]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.06.08-08.04.14:862][615]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.06.08-08.04.14:865][615]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.06.08-08.04.14:865][615]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.06.08-08.04.14:865][615]LogInit: FAudioDevice initialized.
+[2023.06.08-08.04.14:865][615]LogAudio: Display: Audio Device (ID: 7) registered with world 'Phishing'.
+[2023.06.08-08.04.14:879][615]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.08-08.04.14:883][615]LogWorld: Bringing World /Game/Expose/UEDPIE_0_Phishing.Phishing up for play (max tick rate 60) at 2023.06.08-10.04.14
+[2023.06.08-08.04.14:883][615]LogWorld: Bringing up level for play took: 0.003761
+[2023.06.08-08.04.14:886][615]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.06.08-08.04.14:887][615]PIE: Server logged in
+[2023.06.08-08.04.14:889][615]PIE: Play in editor total start time 0,314 seconds.
+[2023.06.08-08.04.15:691][661]LogBlueprintUserMessages: [BP_PhishingCharacter_C_1] Open
+[2023.06.08-08.04.16:774][725]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.04.19:038][843]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.04.20:546][928]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] false
+[2023.06.08-08.04.25:801][221]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.04.26:363][252]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_2] false
+[2023.06.08-08.04.27:610][321]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.04.28:141][345]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] false
+[2023.06.08-08.04.30:726][494]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.04.31:614][542]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_2] false
+[2023.06.08-08.04.34:746][718]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_2] true
+[2023.06.08-08.04.37:676][855]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.04.38:459][902]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] true
+[2023.06.08-08.04.39:217][947]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] false
+[2023.06.08-08.04.39:613][967]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.04.40:961][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.04.40:961][ 12]LogWorld: BeginTearingDown for /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.04.40:962][ 12]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-08.04.40:962][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.04.40:983][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.08-08.04.40:995][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.04.41:097][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-08.04.41:098][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.06.08-08.04.41:102][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.06.08-08.04.41:125][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.04.41:130][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.06.08-08.04.41:161][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.06.08-08.04.47:327][346]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-08.04.47:409][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.06.08-08.04.48:328][378]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-08.04.48:329][378]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItems62A8476D41B4BAF9ADDAF1B7CC0CA82A.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-08.04.48:373][378]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-08.04.48:373][378]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-08.05.31:337][709]BlueprintLog: New page: Compile E-Mail_ListViewItems
+[2023.06.08-08.05.31:499][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.06.08-08.05.31:909][719]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems
+[2023.06.08-08.05.31:910][719]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_ListViewItems7CA267BD4293CE4613D05B9787E9B288.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.uasset'
+[2023.06.08-08.05.31:946][719]AssetCheck: New page: Asset Save: E-Mail_ListViewItems
+[2023.06.08-08.05.31:946][719]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_ListViewItems.E-Mail_ListViewItems
+[2023.06.08-08.08.11:175][212]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2023.06.08-08.08.11:204][212]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Expose/Phishing_Auto1
+[2023.06.08-08.08.11:206][212]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/Phishing_Auto1A45388C244D4EB467F5F0190F3F4EEAD.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/Autosaves/Game/Expose/Phishing_Auto1.umap'
+[2023.06.08-08.08.11:215][212]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Expose/Phishing' took 0.144
+[2023.06.08-08.08.11:215][212]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2023.06.08-08.17.48:951][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.08-08.17.48:966][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.08-08.17.48:966][ 97]PIE: New page: PIE session: Phishing (8 juin 2023 à 12:17:48)
+[2023.06.08-08.17.48:967][ 97]LogPlayLevel: Creating play world package: /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.17.48:970][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004185s)
+[2023.06.08-08.17.48:970][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Expose/Phishing.Phishing to /Game/Expose/UEDPIE_0_Phishing.Phishing (0.004285s)
+[2023.06.08-08.17.48:970][ 97]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-08.17.48:971][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-08.17.48:971][ 97]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-08.17.48:972][ 97]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2023.06.08-08.17.49:065][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.06.08-08.17.49:067][ 97]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.06.08-08.17.49:067][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-08.17.49:067][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-08.17.49:067][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-08.17.49:067][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-08.17.49:067][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-08.17.49:067][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-08.17.49:067][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-08.17.49:067][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-08.17.49:068][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-08.17.49:068][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-08.17.49:068][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-08.17.49:071][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-08.17.49:199][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-08.17.49:199][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-08.17.49:199][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-08.17.49:199][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-08.17.49:201][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.06.08-08.17.49:201][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.06.08-08.17.49:203][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.06.08-08.17.49:203][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.06.08-08.17.49:203][ 97]LogInit: FAudioDevice initialized.
+[2023.06.08-08.17.49:203][ 97]LogAudio: Display: Audio Device (ID: 8) registered with world 'Phishing'.
+[2023.06.08-08.17.49:216][ 97]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.08-08.17.49:220][ 97]LogWorld: Bringing World /Game/Expose/UEDPIE_0_Phishing.Phishing up for play (max tick rate 0) at 2023.06.08-10.17.49
+[2023.06.08-08.17.49:220][ 97]LogWorld: Bringing up level for play took: 0.003872
+[2023.06.08-08.17.49:222][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.06.08-08.17.49:224][ 97]PIE: Server logged in
+[2023.06.08-08.17.49:225][ 97]PIE: Play in editor total start time 0,259 seconds.
+[2023.06.08-08.17.49:930][119]LogBlueprintUserMessages: [BP_PhishingCharacter_C_1] Open
+[2023.06.08-08.17.50:851][148]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.17.51:792][180]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] true
+[2023.06.08-08.17.52:484][220]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] false
+[2023.06.08-08.17.53:051][256]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_1] true
+[2023.06.08-08.17.53:515][284]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.17.54:448][340]LogBlueprintUserMessages: [E-Mail_Contenu_C_0] Archiver
+[2023.06.08-08.17.58:062][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.17.58:062][528]LogWorld: BeginTearingDown for /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.17.58:062][528]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-08.17.58:063][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.17.58:083][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.08-08.17.58:096][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.17.58:188][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.17.58:189][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.06.08-08.17.58:193][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.06.08-08.17.58:224][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.06.08-08.17.58:266][529]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.06.08-08.18.35:244][549]BlueprintLog: New page: Compile E-Mail_Contenu
+[2023.06.08-08.18.35:377][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.06.08-08.18.36:031][568]LogSavePackage: Moving output files for package: /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu
+[2023.06.08-08.18.36:032][568]LogSavePackage: Moving '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Saved/E-Mail_Contenu75E1BD264EADB025EE2998B2BB848675.tmp' to '../../../../../../Users/Admin/Desktop/Stage ComCyberGend/Exposé/Content/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.uasset'
+[2023.06.08-08.18.36:072][568]AssetCheck: New page: Asset Save: E-Mail_Contenu
+[2023.06.08-08.18.36:072][568]LogContentValidation: Display: Validating WidgetBlueprint /Game/Expose/Blueprints/Widgets/E-mails/E-Mail_Contenu.E-Mail_Contenu
+[2023.06.08-08.18.36:821][611]LogEditorViewport: Clicking Background
+[2023.06.08-08.18.37:045][624]LogEditorViewport: Clicking Background
+[2023.06.08-08.18.42:618][797]LogEditorViewport: Clicking Background
+[2023.06.08-08.18.43:539][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.08-08.18.43:559][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.08-08.18.43:559][824]PIE: New page: PIE session: Phishing (8 juin 2023 à 12:18:43)
+[2023.06.08-08.18.43:559][824]LogPlayLevel: Creating play world package: /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.18.43:564][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004600s)
+[2023.06.08-08.18.43:564][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Expose/Phishing.Phishing to /Game/Expose/UEDPIE_0_Phishing.Phishing (0.004754s)
+[2023.06.08-08.18.43:564][824]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.08-08.18.43:564][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-08.18.43:565][824]LogAIModule: Creating AISystem for world Phishing
+[2023.06.08-08.18.43:565][824]LogPlayLevel: PIE: World Init took: (0.001447s)
+[2023.06.08-08.18.43:675][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.06.08-08.18.43:682][824]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.06.08-08.18.43:682][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.08-08.18.43:682][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.08-08.18.43:682][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.08-08.18.43:682][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.08-08.18.43:682][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.08-08.18.43:682][824]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.08-08.18.43:682][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.08-08.18.43:682][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.08-08.18.43:683][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.08-08.18.43:683][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.08-08.18.43:683][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.08-08.18.43:686][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.08-08.18.43:830][824]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.06.08-08.18.43:830][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.08-08.18.43:830][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.08-08.18.43:831][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.08-08.18.43:832][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.06.08-08.18.43:832][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.06.08-08.18.43:834][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.06.08-08.18.43:834][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.06.08-08.18.43:834][824]LogInit: FAudioDevice initialized.
+[2023.06.08-08.18.43:834][824]LogAudio: Display: Audio Device (ID: 9) registered with world 'Phishing'.
+[2023.06.08-08.18.43:851][824]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.08-08.18.43:854][824]LogWorld: Bringing World /Game/Expose/UEDPIE_0_Phishing.Phishing up for play (max tick rate 0) at 2023.06.08-10.18.43
+[2023.06.08-08.18.43:854][824]LogWorld: Bringing up level for play took: 0.003413
+[2023.06.08-08.18.43:857][824]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.06.08-08.18.43:858][824]PIE: Server logged in
+[2023.06.08-08.18.43:859][824]PIE: Play in editor total start time 0,301 seconds.
+[2023.06.08-08.18.44:569][864]LogBlueprintUserMessages: [BP_PhishingCharacter_C_1] Open
+[2023.06.08-08.18.45:674][933]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.18.46:792][996]LogBlueprintUserMessages: [E-Mail_Contenu_C_0] Archiver
+[2023.06.08-08.18.46:793][996]LogBlueprintUserMessages: [E-Mail_Contenu_C_0] false
+[2023.06.08-08.18.49:001][120]LogBlueprintUserMessages: [E-Mail_ListViewItems_C_0] false
+[2023.06.08-08.18.52:469][318]LogBlueprintUserMessages: [E-Mail_Contenu_C_0] Archiver
+[2023.06.08-08.18.52:469][318]LogBlueprintUserMessages: [E-Mail_Contenu_C_0] false
+[2023.06.08-08.18.54:391][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.18.54:391][406]LogWorld: BeginTearingDown for /Game/Expose/UEDPIE_0_Phishing
+[2023.06.08-08.18.54:392][406]LogWorld: UWorld::CleanupWorld for Phishing, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-08.18.54:392][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.18.54:409][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.08-08.18.54:422][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-08.18.54:530][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-08.18.54:530][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.06.08-08.18.54:533][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.06.08-08.18.54:557][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.08-08.18.54:563][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.06.08-08.18.54:597][407]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.06.08-08.21.32:055][981]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.06.08-08.21.32:158][981]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.103 s
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: === Handled ensure: ===
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: 
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 858]
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinKnot [SGraphNodeKnot.cpp(406)]). See InvalidateGraphData for more info
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: Stack: 
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9974659ab UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff997465093 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff99736bd48 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff99749cf8c UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff99749af5d UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb04565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae3762af UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae376110 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb04565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb0470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae3f54ec UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae3f54ec UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb0470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb04565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:158][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb0470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae376110 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb04565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb0470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae3f54ec UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb0470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb04565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb0470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08569 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb0470b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb04565 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb039cd UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb078e5 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08684 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ad9ace1a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9adb08945 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae12904e UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae154787 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae129b14 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae17afa9 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff9ae17a738 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff770fe8e7d UnrealEditor.exe!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff771000d9c UnrealEditor.exe!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff771000e8a UnrealEditor.exe!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff771003c4d UnrealEditor.exe!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff771015564 UnrealEditor.exe!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ff771018736 UnrealEditor.exe!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ffa351426ad KERNEL32.DLL!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: [Callstack] 0x00007ffa3684a9f8 ntdll.dll!UnknownFunction []
+[2023.06.08-08.21.32:159][981]LogOutputDevice: Error: 
